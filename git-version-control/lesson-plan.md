@@ -86,7 +86,7 @@ Techtonica staff will assign pairs. Go through the following steps on one pair p
 
 11. Run `git status`. What do you see?
 
-12. Run `git commit -m "Create new file.`.
+12. Run `git commit -m "Create new file."`.
 
 13. Run `git status`. What do you see?
 
